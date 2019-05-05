@@ -1,5 +1,5 @@
 /**
- * makecode BH1750 Digital Ambient Light Sensor Package.
+ * makecode 44keyboard Digital Ambient Light Sensor Package.
  * From microbit/micropython Chinese community.
  * http://www.micropython.org.cn
  */
