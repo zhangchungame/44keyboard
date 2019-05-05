@@ -1,0 +1,15 @@
+{
+    "name": "44keyboard",
+    "version": "1.0.0",
+    "description": "Extension for 44keyboard",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+
+    ],
+    "public": true
+}
