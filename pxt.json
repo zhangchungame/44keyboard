@@ -1,7 +1,7 @@
 {
-    "name": "44keyboard",
-    "version": "1.0.0",
-    "description": "Extension for 44keyboard",
+    "name": "BH1750",
+    "version": "1.2.0",
+    "description": "makecode 的 BH1750 环境光强度传感器 micro:bit 软件包",
     "license": "MIT",
     "dependencies": {
         "core": "*"
@@ -9,7 +9,9 @@
     "files": [
         "README.md",
         "main.ts"
-
+    ],
+    "testFiles": [
+        "test.ts"
     ],
     "public": true
 }

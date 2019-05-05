@@ -1,10 +1,8 @@
-﻿/*
-Copyright (C): 2010-2019, Shenzhen Yahboom Tech
-modified from liusen
-load dependency
-"mbit": "file:../pxt-mbit"
-*/
-
+/**
+ * makecode BH1750 Digital Ambient Light Sensor Package.
+ * From microbit/micropython Chinese community.
+ * http://www.micropython.org.cn
+ */
 
 // BH1750's I2C address
 enum BH1750_ADDRESS {
@@ -63,5 +61,4 @@ namespace BH1750 {
 
     on();
 }
-
-
+ 
